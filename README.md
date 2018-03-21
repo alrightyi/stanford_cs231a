@@ -6,4 +6,13 @@ Implemented in Python3, base project from https://github.com/ageitgey/face_recog
 Run red.py to see the results of implementation of Method 1: Relative Euclidean Distance (RED).
 Parameters to tweak defined at the top of the file.
 
-Alogirthm of Method 2: Key Lamdmarks has not yet been implemented.
+To install:
+- pip install -r requirements.txt
+- Download red.py
+- Create a folder in the same directory called "data"
+- Unzip known_resized.zip, twin_test_resized.zip and test_resized.zip in "data" folder
+- Open jupyter notebook
+- run red.py
+
+
+
